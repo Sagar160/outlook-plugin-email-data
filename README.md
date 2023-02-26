@@ -3,7 +3,8 @@ Execute the action instead of task pane. For env requirement: flask, openssl
 
 ## Test webapp before deployment
 You can run flask locally and then `temporarily` change the manifest_python.xml file to your local development url.
-1. Install xml file. follow these steps:
+
+For xml/plugin installation. follow these steps:
   If you are a normal user: <br>
     Navigate to the “Add-Ins” menu after logging into Outlook on the web <br>
     Go to `Add-in management` under “...” ('More actions' menu which is visible from a selected email) <br>
