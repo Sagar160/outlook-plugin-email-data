@@ -1,5 +1,5 @@
 # Outlook-Addin-python
-Execute the action instead of task pane. 
+Execute the action instead of task pane. For env requirement: flask, openssl
 
 ## Test webapp before deployment
 You can run flask locally and then `temporarily` change the manifest_python.xml file to your local development url.
